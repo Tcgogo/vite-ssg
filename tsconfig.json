@@ -5,6 +5,7 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "baseUrl": ".",
+    "jsx": "react-jsx",
     "paths": {
       // workaround for: https://github.com/vitest-dev/vitest/issues/4567
       // notice that we'll need to update this when newer versions of vitest are used
